@@ -1,6 +1,6 @@
 {
   "name": "min.normalize.css",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "A retooling of the 'modern alternative to CSS resets (.ie CSS Normalize)'",
   "main": "min.normalize.css",
   "style": "min.normalize.css",
